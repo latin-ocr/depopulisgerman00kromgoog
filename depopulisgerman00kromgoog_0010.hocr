@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./depopulisgerman00kromgoog_0010.png"; bbox 0 0 3240 5304; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 232 2189 1284 2670">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 232 2189 1284 2670">
+     <span class='ocr_line' id='line_1_1' title="bbox 373 2189 1146 2336; baseline 0.003 -4"><span class='ocrx_word' id='word_1_1' title='bbox 373 2249 433 2332; x_wconf 74' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 459 2249 649 2334; x_wconf 76' lang='lat' dir='ltr'>POPULIS</span> <span class='ocrx_word' id='word_1_3' title='bbox 676 2249 918 2334; x_wconf 68' lang='lat' dir='ltr'><strong>GERMANIS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 946 2189 1146 2336; x_wconf 67' lang='lat' dir='ltr'><strong>mmo</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 232 2405 1284 2492; baseline 0.002 -4"><span class='ocrx_word' id='word_1_5' title='bbox 232 2405 444 2489; x_wconf 67' lang='grc' dir='ltr'><strong>ΤΕΜΡΟΒΕ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 471 2406 681 2490; x_wconf 71' lang='lat' dir='ltr'><strong>PATRIAM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 707 2405 925 2492; x_wconf 67' lang='lat' dir='ltr'><strong>NosTssAM</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 952 2405 1284 2491; x_wconf 73' lang='lat' dir='ltr'>INOOLENTIBUS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 325 2562 1198 2670; baseline 0.002 -25"><span class='ocrx_word' id='word_1_9' title='bbox 325 2562 794 2670; x_wconf 69' lang='lat' dir='ltr'><strong>ANGLOSAXONUMQUE</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 823 2564 1198 2649; x_wconf 71' lang='lat' dir='ltr'><strong>Mffissfflomssus.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1624 5304">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1624 5304">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1624 5304; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1624 5304; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
